@@ -1,0 +1,6 @@
+
+dog=perro
+chair=silla
+table=mesa
+car=carro
+cat=gato
